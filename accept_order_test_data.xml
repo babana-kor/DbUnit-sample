@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+<ACCEPT_ORDER o_num="5001" c_num="1000" p_num="501" dc_rate="5" option_price="30" employee="101" accept_date="2004-01-01"/>
+<ACCEPT_ORDER o_num="5002" c_num="1001" p_num="502" dc_rate="10" option_price="20" employee="104" accept_date="2004-02-02"/>
+<ACCEPT_ORDER o_num="5003" c_num="1002" p_num="503" dc_rate="15" option_price="10" employee="101" accept_date="2004-01-31"/>
+</dataset>
